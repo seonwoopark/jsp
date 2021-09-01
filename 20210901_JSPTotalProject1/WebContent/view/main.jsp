@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
-    pageEncoding="UTF-8"%>
+pageEncoding="UTF-8"%>
 <%--
 	브라우저 =========== Controller ======== 해당 Model로 request전송 (request에 결과값을 추가)
 	(사용자)  request               request                          |
